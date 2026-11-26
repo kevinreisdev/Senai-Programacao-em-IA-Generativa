@@ -1,1 +1,1 @@
-# Senai-Programa-o-em-IA-Generativa
+# Curso Técnico Senai - Programação em IA Generativa
